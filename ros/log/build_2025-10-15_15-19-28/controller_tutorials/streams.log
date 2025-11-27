@@ -1,0 +1,33 @@
+[0.704s] Invoking command in '/home/addinedu/dev_ws/ros/build/controller_tutorials': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/addinedu/dev_ws/ros/build/controller_tutorials/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/addinedu/dev_ws/ros/install/controller_tutorials/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/addinedu/dev_ws/ros/build/controller_tutorials/build --no-deps symlink_data
+[0.989s] running develop
+[1.148s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:363: UserWarning: Unbuilt egg for pytest-repeat [unknown version] (/usr/lib/python3/dist-packages)
+[1.148s]   self.local_index = Environment(self.shadow_path + sys.path)
+[1.180s] running egg_info
+[1.180s] creating controller_tutorials.egg-info
+[1.199s] writing controller_tutorials.egg-info/PKG-INFO
+[1.199s] writing dependency_links to controller_tutorials.egg-info/dependency_links.txt
+[1.200s] writing entry points to controller_tutorials.egg-info/entry_points.txt
+[1.200s] writing requirements to controller_tutorials.egg-info/requires.txt
+[1.200s] writing top-level names to controller_tutorials.egg-info/top_level.txt
+[1.200s] writing manifest file 'controller_tutorials.egg-info/SOURCES.txt'
+[1.240s] reading manifest file 'controller_tutorials.egg-info/SOURCES.txt'
+[1.240s] writing manifest file 'controller_tutorials.egg-info/SOURCES.txt'
+[1.260s] running build_ext
+[1.260s] Creating /home/addinedu/dev_ws/ros/install/controller_tutorials/lib/python3.12/site-packages/controller-tutorials.egg-link (link to .)
+[1.261s] Installing control_rotate script to /home/addinedu/dev_ws/ros/install/controller_tutorials/lib/controller_tutorials
+[1.261s] Installing monitor_for_move_turtle script to /home/addinedu/dev_ws/ros/install/controller_tutorials/lib/controller_tutorials
+[1.261s] Installing move_turtle script to /home/addinedu/dev_ws/ros/install/controller_tutorials/lib/controller_tutorials
+[1.261s] Installing move_turtle_state_machine script to /home/addinedu/dev_ws/ros/install/controller_tutorials/lib/controller_tutorials
+[1.261s] Installing pose_dual_controller script to /home/addinedu/dev_ws/ros/install/controller_tutorials/lib/controller_tutorials
+[1.261s] Installing qmonitor_for_pose_dual_controller script to /home/addinedu/dev_ws/ros/install/controller_tutorials/lib/controller_tutorials
+[1.262s] Installing qmonitor_state_machine script to /home/addinedu/dev_ws/ros/install/controller_tutorials/lib/controller_tutorials
+[1.262s] Installing simple_rotate script to /home/addinedu/dev_ws/ros/install/controller_tutorials/lib/controller_tutorials
+[1.262s] 
+[1.262s] Installed /home/addinedu/dev_ws/ros/build/controller_tutorials
+[1.262s] running symlink_data
+[1.262s] creating /home/addinedu/dev_ws/ros/install/controller_tutorials/share/ament_index
+[1.262s] creating /home/addinedu/dev_ws/ros/install/controller_tutorials/share/ament_index/resource_index
+[1.262s] creating /home/addinedu/dev_ws/ros/install/controller_tutorials/share/ament_index/resource_index/packages
+[1.262s] symbolically linking /home/addinedu/dev_ws/ros/build/controller_tutorials/resource/controller_tutorials -> /home/addinedu/dev_ws/ros/install/controller_tutorials/share/ament_index/resource_index/packages
+[1.262s] symbolically linking /home/addinedu/dev_ws/ros/build/controller_tutorials/package.xml -> /home/addinedu/dev_ws/ros/install/controller_tutorials/share/controller_tutorials
+[1.283s] Invoked command in '/home/addinedu/dev_ws/ros/build/controller_tutorials' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/addinedu/dev_ws/ros/build/controller_tutorials/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/addinedu/dev_ws/ros/install/controller_tutorials/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/addinedu/dev_ws/ros/build/controller_tutorials/build --no-deps symlink_data

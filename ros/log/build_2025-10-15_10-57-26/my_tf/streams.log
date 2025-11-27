@@ -1,0 +1,28 @@
+[0.568s] Invoking command in '/home/addinedu/dev_ws/ros/build/my_tf': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/addinedu/dev_ws/ros/build/my_tf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/addinedu/dev_ws/ros/build/my_tf/build --no-deps symlink_data
+[0.799s] running develop
+[0.894s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:363: UserWarning: Unbuilt egg for pytest-repeat [unknown version] (/usr/lib/python3/dist-packages)
+[0.894s]   self.local_index = Environment(self.shadow_path + sys.path)
+[0.917s] running egg_info
+[0.929s] writing my_tf.egg-info/PKG-INFO
+[0.929s] writing dependency_links to my_tf.egg-info/dependency_links.txt
+[0.929s] writing entry points to my_tf.egg-info/entry_points.txt
+[0.929s] writing requirements to my_tf.egg-info/requires.txt
+[0.929s] writing top-level names to my_tf.egg-info/top_level.txt
+[0.952s] reading manifest file 'my_tf.egg-info/SOURCES.txt'
+[0.953s] writing manifest file 'my_tf.egg-info/SOURCES.txt'
+[0.966s] running build_ext
+[0.966s] Creating /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my-tf.egg-link (link to .)
+[0.966s] Installing child_frame script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+[0.967s] Installing combined_frame script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+[0.967s] Installing distance_world_child_publisher script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+[0.967s] Installing frame_trail_publisher_marker script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+[0.967s] Installing frame_trail_publisher_marker_2 script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+[0.967s] Installing frame_trail_publisher_nav script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+[0.967s] Installing frame_trail_publisher_nav_2 script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+[0.967s] Installing frame_trail_publisher_nav_3 script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+[0.967s] Installing my_tf_1 script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+[0.967s] Installing my_tf_2 script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+[0.968s] 
+[0.968s] Installed /home/addinedu/dev_ws/ros/build/my_tf
+[0.968s] running symlink_data
+[0.992s] Invoked command in '/home/addinedu/dev_ws/ros/build/my_tf' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/addinedu/dev_ws/ros/build/my_tf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/addinedu/dev_ws/ros/build/my_tf/build --no-deps symlink_data

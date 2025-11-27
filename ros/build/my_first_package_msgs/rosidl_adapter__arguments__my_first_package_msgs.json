@@ -1,0 +1,8 @@
+{
+  "package_name": "my_first_package_msgs",
+  "non_idl_tuples": [
+    "/home/addinedu/dev_ws/ros/src/my_first_package_msgs:msg/CmdAndPoseVel.msg",
+    "/home/addinedu/dev_ws/ros/src/my_first_package_msgs:srv/MultiSpawn.srv",
+    "/home/addinedu/dev_ws/ros/src/my_first_package_msgs:action/DistTurtle.action"
+  ]
+}

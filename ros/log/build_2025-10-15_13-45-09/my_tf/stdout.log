@@ -1,0 +1,68 @@
+running develop
+Removing /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my-tf.egg-link (link to .)
+running egg_info
+writing ../../../build/my_tf/my_tf.egg-info/PKG-INFO
+writing dependency_links to ../../../build/my_tf/my_tf.egg-info/dependency_links.txt
+writing entry points to ../../../build/my_tf/my_tf.egg-info/entry_points.txt
+writing requirements to ../../../build/my_tf/my_tf.egg-info/requires.txt
+writing top-level names to ../../../build/my_tf/my_tf.egg-info/top_level.txt
+reading manifest file '../../../build/my_tf/my_tf.egg-info/SOURCES.txt'
+writing manifest file '../../../build/my_tf/my_tf.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/addinedu/dev_ws/ros/build/my_tf/build
+creating /home/addinedu/dev_ws/ros/build/my_tf/build/lib
+creating /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf
+copying my_tf/distance_world_child_publisher.py -> /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf
+copying my_tf/frame_trail_publisher_marker_2.py -> /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf
+copying my_tf/my_tf_1.py -> /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf
+copying my_tf/frame_trail_publisher_nav_2.py -> /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf
+copying my_tf/frame_trail_publisher_nav.py -> /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf
+copying my_tf/__init__.py -> /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf
+copying my_tf/frame_trail_publisher_marker.py -> /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf
+copying my_tf/my_tf_2.py -> /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf
+copying my_tf/child_frame.py -> /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf
+copying my_tf/frame_trail_publisher_nav_3.py -> /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf
+copying my_tf/combined_frame.py -> /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf
+running install
+running install_lib
+creating /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf
+copying /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf/distance_world_child_publisher.py -> /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf
+copying /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf/frame_trail_publisher_marker_2.py -> /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf
+copying /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf/my_tf_1.py -> /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf
+copying /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf/frame_trail_publisher_nav_2.py -> /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf
+copying /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf/frame_trail_publisher_nav.py -> /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf
+copying /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf/__init__.py -> /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf
+copying /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf/frame_trail_publisher_marker.py -> /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf
+copying /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf/my_tf_2.py -> /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf
+copying /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf/child_frame.py -> /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf
+copying /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf/frame_trail_publisher_nav_3.py -> /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf
+copying /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf/combined_frame.py -> /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf
+byte-compiling /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf/distance_world_child_publisher.py to distance_world_child_publisher.cpython-312.pyc
+byte-compiling /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf/frame_trail_publisher_marker_2.py to frame_trail_publisher_marker_2.cpython-312.pyc
+byte-compiling /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf/my_tf_1.py to my_tf_1.cpython-312.pyc
+byte-compiling /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf/frame_trail_publisher_nav_2.py to frame_trail_publisher_nav_2.cpython-312.pyc
+byte-compiling /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf/frame_trail_publisher_nav.py to frame_trail_publisher_nav.cpython-312.pyc
+byte-compiling /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf/frame_trail_publisher_marker.py to frame_trail_publisher_marker.cpython-312.pyc
+byte-compiling /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf/my_tf_2.py to my_tf_2.cpython-312.pyc
+byte-compiling /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf/child_frame.py to child_frame.cpython-312.pyc
+byte-compiling /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf/frame_trail_publisher_nav_3.py to frame_trail_publisher_nav_3.cpython-312.pyc
+byte-compiling /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf/combined_frame.py to combined_frame.cpython-312.pyc
+running install_data
+copying resource/my_tf -> /home/addinedu/dev_ws/ros/install/my_tf/share/ament_index/resource_index/packages
+copying package.xml -> /home/addinedu/dev_ws/ros/install/my_tf/share/my_tf
+running install_egg_info
+Copying ../../../build/my_tf/my_tf.egg-info to /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf-0.0.0-py3.12.egg-info
+running install_scripts
+Installing child_frame script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+Installing combined_frame script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+Installing distance_world_child_publisher script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+Installing frame_trail_publisher_marker script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+Installing frame_trail_publisher_marker_2 script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+Installing frame_trail_publisher_nav script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+Installing frame_trail_publisher_nav_2 script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+Installing frame_trail_publisher_nav_3 script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+Installing my_tf_1 script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+Installing my_tf_2 script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+writing list of installed files to '/home/addinedu/dev_ws/ros/build/my_tf/install.log'

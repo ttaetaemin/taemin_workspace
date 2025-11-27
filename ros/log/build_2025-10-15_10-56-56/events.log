@@ -1,0 +1,51 @@
+[0.000000] (-) TimerEvent: {}
+[0.000319] (my_first_package) JobQueued: {'identifier': 'my_first_package', 'dependencies': OrderedDict()}
+[0.000451] (my_first_package_msgs) JobQueued: {'identifier': 'my_first_package_msgs', 'dependencies': OrderedDict()}
+[0.000500] (my_tf) JobQueued: {'identifier': 'my_tf', 'dependencies': OrderedDict()}
+[0.000571] (my_first_package) JobStarted: {'identifier': 'my_first_package'}
+[0.005237] (my_first_package_msgs) JobStarted: {'identifier': 'my_first_package_msgs'}
+[0.006562] (my_tf) JobStarted: {'identifier': 'my_tf'}
+[0.099707] (-) TimerEvent: {}
+[0.160797] (my_first_package_msgs) JobProgress: {'identifier': 'my_first_package_msgs', 'progress': 'cmake'}
+[0.161329] (my_first_package_msgs) Command: {'cmd': ['/usr/bin/cmake', '/home/addinedu/dev_ws/ros/src/my_first_package_msgs', '-DCMAKE_INSTALL_PREFIX=/home/addinedu/dev_ws/ros/install/my_first_package_msgs'], 'cwd': '/home/addinedu/dev_ws/ros/build/my_first_package_msgs', 'env': OrderedDict({'GJS_DEBUG_TOPICS': 'JS ERROR;JS LOG', 'XDG_ACTIVATION_TOKEN': 'gnome-shell/Terminator/3007-2-taemin_TIME252876', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'en_US:en', 'USER': 'addinedu', 'LC_TIME': 'en_US.UTF-8', 'XDG_SESSION_TYPE': 'x11', 'CLUTTER_DISABLE_MIPMAPPED_TEXT': '1', 'SHLVL': '1', 'HOME': '/home/addinedu', 'DESKTOP_SESSION': 'ubuntu', 'GIO_LAUNCHED_DESKTOP_FILE': '/usr/share/applications/terminator.desktop', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'LC_MONETARY': 'en_US.UTF-8', 'MANAGERPID': '2517', 'SYSTEMD_EXEC_PID': '3007', 'GSM_SKIP_SSH_AGENT_WORKAROUND': 'true', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'TERMINATOR_DBUS_NAME': 'net.tenshu.Terminator23558193cd9818af7fe4d2c2f5bd9d00f', 'GIO_LAUNCHED_DESKTOP_FILE_PID': '4491', 'DEBUGINFOD_URLS': 'https://debuginfod.ubuntu.com', 'LOGNAME': 'addinedu', 'JOURNAL_STREAM': '9:25949', '_': '/usr/bin/colcon', 'MEMORY_PRESSURE_WATCH': '/sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/session.slice/org.gnome.Shell@x11.service/memory.pressure', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'addinedu', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'WINDOWPATH': '2', 'PATH': '/home/addinedu/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/taemin:@/tmp/.ICE-unix/2943,unix/taemin:/tmp/.ICE-unix/2943', 'INVOCATION_ID': '917e5564fc8d468ab0c57abf2aa49f01', 'PAPERSIZE': 'letter', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'en_US.UTF-8', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':1', 'TERMINATOR_DBUS_PATH': '/net/tenshu/Terminator2', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LC_TELEPHONE': 'en_US.UTF-8', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/gdm/Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'LC_MESSAGES': 'POSIX', 'SHELL': '/bin/bash', 'LC_NAME': 'en_US.UTF-8', 'TERMINATOR_UUID': 'urn:uuid:c01bab78-b333-4652-8403-96b2f5f764af', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'en_US.UTF-8', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'GJS_DEBUG_OUTPUT': 'stderr', 'LC_IDENTIFICATION': 'en_US.UTF-8', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/addinedu/dev_ws/ros/build/my_first_package_msgs', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'LC_NUMERIC': 'en_US.UTF-8', 'LC_PAPER': 'en_US.UTF-8', 'COLCON': '1', 'MEMORY_PRESSURE_WRITE': 'c29tZSAyMDAwMDAgMjAwMDAwMAA=', 'VTE_VERSION': '7600'}), 'shell': False}
+[0.199787] (-) TimerEvent: {}
+[0.203490] (my_first_package_msgs) StdoutLine: {'line': b'-- The C compiler identification is GNU 13.3.0\n'}
+[0.246455] (my_first_package_msgs) StdoutLine: {'line': b'-- The CXX compiler identification is GNU 13.3.0\n'}
+[0.257794] (my_first_package_msgs) StdoutLine: {'line': b'-- Detecting C compiler ABI info\n'}
+[0.299876] (-) TimerEvent: {}
+[0.319833] (my_first_package_msgs) StdoutLine: {'line': b'-- Detecting C compiler ABI info - done\n'}
+[0.329116] (my_first_package_msgs) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc - skipped\n'}
+[0.329403] (my_first_package_msgs) StdoutLine: {'line': b'-- Detecting C compile features\n'}
+[0.330018] (my_first_package_msgs) StdoutLine: {'line': b'-- Detecting C compile features - done\n'}
+[0.337247] (my_first_package_msgs) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info\n'}
+[0.399991] (-) TimerEvent: {}
+[0.413383] (my_first_package_msgs) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info - done\n'}
+[0.422213] (my_first_package_msgs) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++ - skipped\n'}
+[0.422453] (my_first_package_msgs) StdoutLine: {'line': b'-- Detecting CXX compile features\n'}
+[0.422927] (my_first_package_msgs) StdoutLine: {'line': b'-- Detecting CXX compile features - done\n'}
+[0.430368] (my_first_package_msgs) StderrLine: {'line': b'\x1b[31mCMake Error at CMakeLists.txt:9 (find_package):\n'}
+[0.430539] (my_first_package_msgs) StderrLine: {'line': b'  By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project\n'}
+[0.430616] (my_first_package_msgs) StderrLine: {'line': b'  has asked CMake to find a package configuration file provided by\n'}
+[0.430697] (my_first_package_msgs) StderrLine: {'line': b'  "ament_cmake", but CMake did not find one.\n'}
+[0.430763] (my_first_package_msgs) StderrLine: {'line': b'\n'}
+[0.430828] (my_first_package_msgs) StderrLine: {'line': b'  Could not find a package configuration file provided by "ament_cmake" with\n'}
+[0.430895] (my_first_package_msgs) StderrLine: {'line': b'  any of the following names:\n'}
+[0.430955] (my_first_package_msgs) StderrLine: {'line': b'\n'}
+[0.431014] (my_first_package_msgs) StderrLine: {'line': b'    ament_cmakeConfig.cmake\n'}
+[0.431078] (my_first_package_msgs) StderrLine: {'line': b'    ament_cmake-config.cmake\n'}
+[0.431137] (my_first_package_msgs) StderrLine: {'line': b'\n'}
+[0.431199] (my_first_package_msgs) StderrLine: {'line': b'  Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set\n'}
+[0.431260] (my_first_package_msgs) StderrLine: {'line': b'  "ament_cmake_DIR" to a directory containing one of the above files.  If\n'}
+[0.431328] (my_first_package_msgs) StderrLine: {'line': b'  "ament_cmake" provides a separate development package or SDK, be sure it\n'}
+[0.431391] (my_first_package_msgs) StderrLine: {'line': b'  has been installed.\n'}
+[0.431452] (my_first_package_msgs) StderrLine: {'line': b'\n'}
+[0.431517] (my_first_package_msgs) StderrLine: {'line': b'\x1b[0m\n'}
+[0.431579] (my_first_package_msgs) StdoutLine: {'line': b'-- Configuring incomplete, errors occurred!\n'}
+[0.433074] (my_first_package_msgs) CommandEnded: {'returncode': 1}
+[0.446989] (my_first_package_msgs) JobEnded: {'identifier': 'my_first_package_msgs', 'rc': 1}
+[0.500082] (-) TimerEvent: {}
+[0.600307] (-) TimerEvent: {}
+[0.700585] (-) TimerEvent: {}
+[0.771730] (my_first_package) JobEnded: {'identifier': 'my_first_package', 'rc': 'SIGINT'}
+[0.775490] (my_tf) JobEnded: {'identifier': 'my_tf', 'rc': 'SIGINT'}
+[0.786076] (-) EventReactorShutdown: {}

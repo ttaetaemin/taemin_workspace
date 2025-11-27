@@ -1,0 +1,74 @@
+[1.015s] Invoking command in '/home/addinedu/dev_ws/ros/build/my_tf': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/addinedu/dev_ws/ros/build/my_tf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/addinedu/dev_ws/ros/build/my_tf/build
+[1.319s] running develop
+[1.506s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:363: UserWarning: Unbuilt egg for pytest-repeat [unknown version] (/usr/lib/python3/dist-packages)
+[1.506s]   self.local_index = Environment(self.shadow_path + sys.path)
+[1.546s] Removing /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my-tf.egg-link (link to .)
+[1.593s] Invoked command in '/home/addinedu/dev_ws/ros/build/my_tf' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/addinedu/dev_ws/ros/build/my_tf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/addinedu/dev_ws/ros/build/my_tf/build
+[1.594s] Invoking command in '/home/addinedu/dev_ws/ros/src/my_tf_tutorials/my_tf': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/addinedu/dev_ws/ros/build/my_tf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/my_tf build --build-base /home/addinedu/dev_ws/ros/build/my_tf/build install --record /home/addinedu/dev_ws/ros/build/my_tf/install.log --single-version-externally-managed install_data --force
+[1.902s] running egg_info
+[1.925s] writing ../../../build/my_tf/my_tf.egg-info/PKG-INFO
+[1.926s] writing dependency_links to ../../../build/my_tf/my_tf.egg-info/dependency_links.txt
+[1.926s] writing entry points to ../../../build/my_tf/my_tf.egg-info/entry_points.txt
+[1.926s] writing requirements to ../../../build/my_tf/my_tf.egg-info/requires.txt
+[1.926s] writing top-level names to ../../../build/my_tf/my_tf.egg-info/top_level.txt
+[1.974s] reading manifest file '../../../build/my_tf/my_tf.egg-info/SOURCES.txt'
+[1.975s] writing manifest file '../../../build/my_tf/my_tf.egg-info/SOURCES.txt'
+[1.975s] running build
+[1.975s] running build_py
+[1.976s] creating /home/addinedu/dev_ws/ros/build/my_tf/build
+[1.976s] creating /home/addinedu/dev_ws/ros/build/my_tf/build/lib
+[1.976s] creating /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf
+[1.976s] copying my_tf/distance_world_child_publisher.py -> /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf
+[1.976s] copying my_tf/frame_trail_publisher_marker_2.py -> /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf
+[1.976s] copying my_tf/my_tf_1.py -> /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf
+[1.976s] copying my_tf/frame_trail_publisher_nav_2.py -> /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf
+[1.976s] copying my_tf/frame_trail_publisher_nav.py -> /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf
+[1.976s] copying my_tf/__init__.py -> /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf
+[1.976s] copying my_tf/frame_trail_publisher_marker.py -> /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf
+[1.977s] copying my_tf/my_tf_2.py -> /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf
+[1.977s] copying my_tf/child_frame.py -> /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf
+[1.977s] copying my_tf/frame_trail_publisher_nav_3.py -> /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf
+[1.977s] copying my_tf/combined_frame.py -> /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf
+[1.977s] running install
+[1.984s] running install_lib
+[2.006s] creating /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf
+[2.006s] copying /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf/distance_world_child_publisher.py -> /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf
+[2.006s] copying /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf/frame_trail_publisher_marker_2.py -> /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf
+[2.006s] copying /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf/my_tf_1.py -> /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf
+[2.006s] copying /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf/frame_trail_publisher_nav_2.py -> /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf
+[2.006s] copying /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf/frame_trail_publisher_nav.py -> /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf
+[2.006s] copying /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf/__init__.py -> /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf
+[2.007s] copying /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf/frame_trail_publisher_marker.py -> /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf
+[2.007s] copying /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf/my_tf_2.py -> /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf
+[2.007s] copying /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf/child_frame.py -> /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf
+[2.007s] copying /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf/frame_trail_publisher_nav_3.py -> /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf
+[2.007s] copying /home/addinedu/dev_ws/ros/build/my_tf/build/lib/my_tf/combined_frame.py -> /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf
+[2.007s] byte-compiling /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf/distance_world_child_publisher.py to distance_world_child_publisher.cpython-312.pyc
+[2.008s] byte-compiling /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf/frame_trail_publisher_marker_2.py to frame_trail_publisher_marker_2.cpython-312.pyc
+[2.008s] byte-compiling /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf/my_tf_1.py to my_tf_1.cpython-312.pyc
+[2.008s] byte-compiling /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf/frame_trail_publisher_nav_2.py to frame_trail_publisher_nav_2.cpython-312.pyc
+[2.009s] byte-compiling /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf/frame_trail_publisher_nav.py to frame_trail_publisher_nav.cpython-312.pyc
+[2.009s] byte-compiling /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf/__init__.py to __init__.cpython-312.pyc
+[2.009s] byte-compiling /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf/frame_trail_publisher_marker.py to frame_trail_publisher_marker.cpython-312.pyc
+[2.010s] byte-compiling /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf/my_tf_2.py to my_tf_2.cpython-312.pyc
+[2.010s] byte-compiling /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf/child_frame.py to child_frame.cpython-312.pyc
+[2.011s] byte-compiling /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf/frame_trail_publisher_nav_3.py to frame_trail_publisher_nav_3.cpython-312.pyc
+[2.013s] byte-compiling /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf/combined_frame.py to combined_frame.cpython-312.pyc
+[2.013s] running install_data
+[2.014s] copying resource/my_tf -> /home/addinedu/dev_ws/ros/install/my_tf/share/ament_index/resource_index/packages
+[2.014s] copying package.xml -> /home/addinedu/dev_ws/ros/install/my_tf/share/my_tf
+[2.014s] running install_egg_info
+[2.039s] Copying ../../../build/my_tf/my_tf.egg-info to /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my_tf-0.0.0-py3.12.egg-info
+[2.039s] running install_scripts
+[2.180s] Installing child_frame script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+[2.181s] Installing combined_frame script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+[2.181s] Installing distance_world_child_publisher script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+[2.181s] Installing frame_trail_publisher_marker script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+[2.182s] Installing frame_trail_publisher_marker_2 script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+[2.182s] Installing frame_trail_publisher_nav script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+[2.182s] Installing frame_trail_publisher_nav_2 script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+[2.182s] Installing frame_trail_publisher_nav_3 script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+[2.182s] Installing my_tf_1 script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+[2.182s] Installing my_tf_2 script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+[2.183s] writing list of installed files to '/home/addinedu/dev_ws/ros/build/my_tf/install.log'
+[2.223s] Invoked command in '/home/addinedu/dev_ws/ros/src/my_tf_tutorials/my_tf' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/addinedu/dev_ws/ros/build/my_tf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/my_tf build --build-base /home/addinedu/dev_ws/ros/build/my_tf/build install --record /home/addinedu/dev_ws/ros/build/my_tf/install.log --single-version-externally-managed install_data --force

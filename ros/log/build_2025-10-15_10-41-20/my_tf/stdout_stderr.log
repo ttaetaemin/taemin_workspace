@@ -1,0 +1,33 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:363: UserWarning: Unbuilt egg for pytest-repeat [unknown version] (/usr/lib/python3/dist-packages)
+  self.local_index = Environment(self.shadow_path + sys.path)
+running egg_info
+creating my_tf.egg-info
+writing my_tf.egg-info/PKG-INFO
+writing dependency_links to my_tf.egg-info/dependency_links.txt
+writing entry points to my_tf.egg-info/entry_points.txt
+writing requirements to my_tf.egg-info/requires.txt
+writing top-level names to my_tf.egg-info/top_level.txt
+writing manifest file 'my_tf.egg-info/SOURCES.txt'
+reading manifest file 'my_tf.egg-info/SOURCES.txt'
+writing manifest file 'my_tf.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/addinedu/dev_ws/ros/install/my_tf/lib/python3.12/site-packages/my-tf.egg-link (link to .)
+Installing child_frame script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+Installing combined_frame script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+Installing distance_world_child_publisher script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+Installing frame_trail_publisher_marker script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+Installing frame_trail_publisher_marker_2 script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+Installing frame_trail_publisher_nav script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+Installing frame_trail_publisher_nav_2 script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+Installing frame_trail_publisher_nav_3 script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+Installing my_tf_1 script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+Installing my_tf_2 script to /home/addinedu/dev_ws/ros/install/my_tf/lib/my_tf
+
+Installed /home/addinedu/dev_ws/ros/build/my_tf
+running symlink_data
+creating /home/addinedu/dev_ws/ros/install/my_tf/share/ament_index
+creating /home/addinedu/dev_ws/ros/install/my_tf/share/ament_index/resource_index
+creating /home/addinedu/dev_ws/ros/install/my_tf/share/ament_index/resource_index/packages
+symbolically linking /home/addinedu/dev_ws/ros/build/my_tf/resource/my_tf -> /home/addinedu/dev_ws/ros/install/my_tf/share/ament_index/resource_index/packages
+symbolically linking /home/addinedu/dev_ws/ros/build/my_tf/package.xml -> /home/addinedu/dev_ws/ros/install/my_tf/share/my_tf
