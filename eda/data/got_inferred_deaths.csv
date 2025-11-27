@@ -1,0 +1,709 @@
+Season,Episode,Actor,Role,Death_EpIndex
+1,1,Sean Bean,Ned Stark,101
+1,1,Esmé Bianco,Roz,101
+1,1,Jamie Campbell Bower,Waymar Royce,101
+1,1,Jennifer Ehle,Catelyn Stark,101
+1,1,George R.R. Martin,Pentoshi Nobleman,101
+1,1,Rory McCann,Sandor Clegane,101
+1,1,Ian McNeice,Illyrio Mopatis,101
+1,1,Tamzin Merchant,Daenerys Targaryen,101
+1,1,Richard Ridings,Gared,101
+1,2,Bronson Webb,Will,102
+1,2,John Standing,Jon Arryn,102
+1,2,Rob Ostlere,Waymar Royce,102
+1,2,Dermot Keaney,Gared,102
+1,2,Rania Zouari,Pentoshi Servant,102
+1,2,Ian Whyte,White Walker #1,102
+1,2,Spencer Wilding,White Walker #2,102
+1,2,Claire Wright,Wight Wildling Girl,102
+1,3,Sarita Piotrowski,Jhiqui,103
+1,3,Rhodri Hosking,Mycah,103
+1,3,Lalor Roddy,Catspaw Assassin,103
+1,3,Conor Delaney,Lannister Guard,103
+1,4,Paul Portelli,Drunk Patron,104
+1,4,Nikovich Sammut,Goldcloak #1,104
+1,4,Seamus Kelly,Goldcloak #2,104
+1,5,Margaret John,Old Nan,105
+1,5,Patrick Ryan,Knight of House Frey,105
+1,5,Susie Kelly,Masha Heddle,105
+1,6,Jamie Sives,Jory Cassel,106
+1,6,Roger Allam,Illyrio Mopatis,106
+1,6,Conan Stevens,Gregor 'The Mountain' Clegane,106
+1,6,Jefferson Hall,Hugh of the Vale,106
+1,6,Alan Paris,Goldcloak,106
+1,6,Kevin Keenan,Kurleket,106
+1,6,Ryan McKenna,Willis Wode,106
+1,6,Emily Diamond,King's Landing Whore,106
+1,7,Harry Lloyd,Viserys Targaryen,107
+1,7,Ciaran Bermingham,Mord,107
+1,7,Brendan McCormack,Vardis Egen,107
+1,7,Amira Ghazalla,Dothraki Crone,107
+1,7,Niall Cusack,Joss,107
+1,7,Stephen Don,Stiv,107
+1,7,Paddy Rocks,Knight of House Lynderly,107
+1,7,Barrington Cullen,Eon Hunter,107
+1,7,Barry O'Connor,Night's Watch Deserter,107
+1,7,David Michael Scott,Beric Dondarrion,107
+1,8,Mark Addy,Robert Baratheon,108
+1,8,Simon Lowe,Wine Merchant,108
+1,8,Graham Charles,Varly,108
+1,8,Jeffrey O'Brien,Jaremy Rykker,108
+1,8,Dennis McKeever,Night's Watch Officer,108
+1,8,Phil Dixon,Tomard,108
+1,8,Tristan Mercieca,Little Bird,108
+1,9,Miltos Yerolemou,Syrio Forel,109
+1,9,Susan Brown,Septa Mordane,109
+1,9,Robert Sterne,Royal Steward,109
+1,9,Simon Stewart,Lannister Messenger,109
+1,9,Matthew Scurfield,Vayon Poole,109
+1,9,Frank O'Sullivan,Night's Watch Messenger,109
+1,9,Chris Gallagher,Lannister Scout,109
+1,9,Rick Burn,Stark Guard,109
+1,9,Hugo Culverhouse,Red Keep Stableboy,109
+1,10,Mark Lewis Jones,Shagga,110
+1,10,Dar Salim,Qotho,110
+1,10,Edward Mercieca,King's Landing Baker,110
+1,10,Marcus Lamb,Night's Watchman,110
+1,10,Colin Carnegie,Stevron Frey,110
+1,10,Bryan McCaugherty,Ryger Rivers,110
+1,10,Stephen Grech,King's Landing Urchin,110
+1,11,Sean Bean,Eddard 'Ned' Stark,111
+1,11,Emun Elliott,Marillion,111
+1,11,Clive Mantle,Greatjon Umber,111
+1,11,Mia Soteriou,Mirri Maz Duur,111
+1,11,Steve Blount,Rickard Karstark,111
+1,11,Gerry O'Brien,Jonos Bracken,111
+1,11,Vinnie McCabe,Leo Lefford,111
+1,11,B.J. Hogg,Addam Marbrand,111
+1,11,Faolan Morgan,Stark Guard,111
+2,1,Oliver Ford Davies,Maester Cressen,201
+2,1,Elyes Gabel,Rakharo,201
+2,1,Pat Mooney,Northern Lord,201
+2,1,Antonia Christophers,Mhaegen,201
+2,1,Andrew Wilde,Tobho Mott,201
+2,1,Natalia Lee,Chella,201
+2,1,Gordon Fulton,Lord Portan,201
+2,1,Marko Cindric,Tourney Herald,201
+2,2,Amy Dawson,Captain's Daughter,202
+2,2,Jer O'Leary,Lordsport Dockhand,202
+2,2,Ian Whyte,White Walker,202
+2,2,Derek Reid,Brothel Customer,202
+2,2,Dennis Stokes,Male Prostitute,202
+2,3,Francis Magee,Yoren,203
+2,3,Eros V,Lommy Greenhands,203
+2,3,Jonathan Ryan,Drowned Priest,203
+2,3,Tobias Winter,Timett,203
+2,3,Ken Fletcher,Gerald,203
+2,3,Darren Killeen,Colen of Greenpools,203
+2,3,Sam Callis,Goldcloak,203
+2,4,Sam Mackay,Lannister Guard,204
+2,4,David Fynn,Rennick,204
+2,4,Maisie Dee,Daisy,204
+2,4,Gina Moxley,Old Woman Prisoner,204
+2,4,Emmet O'Riabhaigh,Wounded Lannister,204
+2,4,Donal Gallery,Tortured Prisoner,204
+2,5,Gethin Anthony,Renly Baratheon,205
+2,5,Edward Tudor-Pole,Protestor,205
+2,5,Patrick FitzSymons,Reginald Lannister,205
+2,5,Anthony Morris,The Tickler,205
+2,5,Kristina Krepela,Qartheen Woman,205
+2,6,Ron Donachie,Rodrik Cassel,206
+2,6,Fintan McKeown,Amory Lorch,206
+2,6,Amrita Acharia,Irri,206
+2,6,David Verrey,High Septon,206
+2,6,Aimee Richardson,Myrcella Baratheon,206
+2,6,Marko Juraga,King's Landing Rioter #2,206
+2,6,Rea Separovic,King's Landing Rioter #3,206
+2,7,Nicholas Blane,Spice King,207
+2,7,Laura Pradelska,Quaithe,207
+2,7,Karl Davies,Alton Lannister,207
+2,7,Donagh Deeney,Winterfell Shepherd,207
+2,7,Steve Wilson,Theon's Master of Hounds,207
+2,7,Slavko Juraga,Silk King,207
+2,7,Tyrone McElhennon,Torrhen Karstark,207
+2,7,Neill Fleming,Karstark Soldier #1,207
+2,7,Peter Ballance,Farlen,207
+2,7,David James Coakley,Drennan,207
+2,7,Paul Caddell,Jacks,207
+2,7,Duncan Lacroix,Karstark Soldier #2,207
+2,7,Aidan Crowe,Quent,207
+2,7,Reg Wayment,King's Landing Rioter #1,207
+2,8,Ian Whyte,Gregor 'The Mountain' Clegane,208
+2,8,Moe Dunford,Stark Messenger,208
+2,8,Mark Byatt,Lannister Torturer,208
+2,8,David Sheehan,Stark Guard,208
+2,8,Aiden Condron,Lannister Captain,208
+2,8,Ciaran McMahon,Lannister Soldier,208
+2,9,Roy Dotrice,Hallyne,209
+2,9,Kerr Logan,Matthos Seaworth,209
+2,9,Sahara Knite,Armeca,209
+2,9,Wilko Johnson,Ilyn Payne,209
+2,9,Stephen Swift,Singing Lannister Soldier,209
+2,9,Callum Wharry,Tommen Baratheon,209
+2,9,Gordon Mahon,Imry Florent,209
+2,9,James Doran,Mandon Moore,209
+2,9,Kieran Cunningham,Baratheon Officer,209
+2,9,Michael Grennell,Captain of the Archers,209
+2,10,Donald Sumpter,Maester Luwin,210
+2,10,Ian Hanmore,Pyat Pree,210
+2,10,Simon Armstrong,Qhorin Halfhand,210
+2,10,Nonso Anozie,Xaro Xhoan Daxos,210
+2,10,Oona Chaplin,Talisa Maegyr,210
+2,10,Ralph Ineson,Dagmer Cleftjaw,210
+2,10,Roxanne McKee,Doreah,210
+2,10,Steven Cole,Kovarro,210
+2,10,Forbes KB,Black Lorren,210
+2,10,Patrick O'Kane,Jaqen's Disguise,210
+2,10,Michael Shaeffer,Stark Soldier,210
+2,10,Chris Reilly,Soldier Tom,210
+2,10,Terry Byrne,Septon,210
+2,10,Wren Ros Elliot-Sloan,Rhaego,210
+2,10,Jason Momoa,Khal Drogo,210
+3,1,Edward Dogliani,Rattleshirt,301
+3,1,Elisa Lasowski,Mirelle,301
+3,1,Michael Power,Boat Commander,301
+3,1,Aisling Jarrett-Gavin,Margaery's Handmaiden,301
+3,1,Max Barber,Orphan Kid,301
+3,1,Lottie Steer,Warlock,301
+3,1,Rhys Howells,Unsullied,301
+3,2,Joe Purcell,Riverlands Traveller,302
+3,2,Joe Cassidy,King's Landing Tailor,302
+3,2,Will Rastall,Tyrell Servant,302
+3,3,Michael Shelford,Master Torturer,303
+3,3,Gary Lightbody,Bolton Soldier,303
+3,3,Michelle Costello,Craster's Wife,303
+3,3,Lisa Walsh,Craster's Younger Wife,303
+3,3,Kylie Harris,Genna,303
+3,3,Mark Drake,Tortured Slave,303
+3,4,James Cosmo,Jeor Mormont,304
+3,4,Robert Pugh,Craster,304
+3,4,Dan Hildebrand,Kraznys mo Nakloz,304
+3,4,Clifford Barry,Greizhen mo Ullhor,304
+3,4,Sophie Reid,Tyrell Lady,304
+3,4,Bryan Quinn,Bolton Soldier,304
+3,4,Harold James McMullan,Sorcerer,304
+3,5,John Stahl,Rickard Karstark,305
+3,5,Dean-Charles Chapman,Martyn Lannister,305
+3,5,Timothy Gibbons,Willem Lannister,305
+3,5,Shaun Blaney,Karstark Lookout,305
+3,6,Esmé Bianco,Ros,306
+3,7,Philip McGinley,Anguy,307
+3,7,Jamie Michie,Steelshanks Walton,307
+3,7,Stephanie Blacker,Violet,307
+3,8,Mark Killeen,Mero,308
+3,8,Ramon Tikaram,Prendahl na Ghezn,308
+3,8,Talitha Luke-Eardley,Yunkai'i Whore,308
+3,9,Richard Madden,Robb Stark,309
+3,9,Michelle Fairley,Catelyn Stark,309
+3,9,Oona Chaplin,Talisa Stark,309
+3,9,Mackenzie Crook,Orell,309
+3,9,Tom Brooke,Lothar Frey,309
+3,9,Kenneth Hadley,Septon,309
+3,9,Alexandra Dowling,Roslin Frey,309
+3,9,Sean Buckley,Old Man,309
+3,9,A.J. Kennedy,Frey Guard,309
+3,9,Grace Hendy,Merry Frey,309
+3,9,Pat McGrath,Hog Farmer,309
+3,9,Kelly Long,Joyeuse Frey,309
+3,9,Oddie Braddell,Wendel Manderly,309
+3,9,Will Champion,Drummer,309
+3,10,Ed Skrein,Daario Naharis,310
+3,10,Ciaran O'Grady,Frey Soldier #1,310
+3,10,Michael Liebmann,Frey Soldier #2,310
+3,10,Alex Mileman,Fruit Vendor,310
+3,10,Maro Drobnic,Desmond Crakehall,310
+3,10,Marin Tudor,Yunkai'i Slave #1,310
+3,10,Roxana Kadyrova,Yunkai'i Slave #2,310
+3,10,Jamal Ouarraq,Yunkai'i Slave #3,310
+3,10,El Hasani,Yunkai'i Slave #4,310
+3,10,Mustapha Mekanassi,Yunkai'i Slave #5,310
+4,1,Andy Kellegher,Polliver,401
+4,1,Chris Reilly,Morgan,401
+4,1,Stuart Martin,Morgan's Friend,401
+4,1,Martin Walsh,Innkeeper,401
+4,1,Daniel Rabin,Lord Blackmont,401
+4,1,Dez McMahon,Ser Endrew Tarth,401
+4,1,Kristen Gillespie,Whore #1,401
+4,1,Tommy Dunne,Tommy,401
+4,1,Gabrielle Dempsey,Innkeeper's Daughter,401
+4,1,Maria Sikavica,Whore #2,401
+4,2,Jazzy De Lisser,Tansy,402
+4,2,James McHale,Axell Florent,402
+4,2,Pixie Le Knot,Kayla,402
+4,2,Jon Thor Birgisson,Musician #1,402
+4,2,Orri P. Dyrason,Musician #2,402
+4,2,Georg Holm,Musician #3,402
+4,2,Raymond Griffiths,King Joffrey Baratheon Dwarf,402
+4,2,Maxwell Laird,King Stannis Baratheon Dwarf,402
+4,2,Dean Whatton,King Renly Baratheon Dwarf,402
+4,2,George Appleby,King Robb Stark Dwarf,402
+4,2,Krysten Coombs,King Balon Greyjoy Dwarf,402
+4,3,Jack Gleeson,Joffrey Baratheon,403
+4,3,Tony Way,Dontos Hollard,403
+4,3,Finbar Lynch,Farmer Hamlet,403
+4,3,Jem Wall,Guymon,403
+4,3,Raewyn Lippert,Olly's Mother,403
+4,3,Patrick J Molloy,Night's Watchman,403
+4,3,Trixiebell Harrowell,Farmer's Daughter,403
+4,3,Xena Avramidis,King's Landing Whore,403
+4,3,Derek Horsham,Great Master #2,403
+4,3,Joshua Sher,Meereen Slave,403
+4,4,Emilio Doorgasingh,Great Master #1,404
+4,4,Philip Philmar,Elder Meereen Slave,404
+4,4,Ross Mullan,White Walker,404
+4,4,Robert Goodman,Valyrian Slave,404
+4,4,Karl Jackson,Unsullied,404
+4,4,Aeryn Walker,Craster's Wife #2,404
+4,4,Cheryl Lester,Craster's Wife #3,404
+4,5,Burn Gorman,Karl Tanner,405
+4,5,Noah Taylor,Locke,405
+4,5,Luke Barnes,Rast,405
+4,5,Deirdre Monaghan,Morag,405
+4,5,Jane McGrath,Sissy,405
+4,6,Lucian Msamati,Salladhor Saan,406
+4,6,Philip Arditti,Goatherd,406
+4,6,Rhodri Miles,First Mate,406
+4,6,Samantha McEwan,Bathhouse Prostitute,406
+4,6,Samantha Bentley,Bathhouse Prostitute,406
+4,6,Michael Hough,Ironborn in Skiff,406
+4,6,Anthony Boyle,Bolton Guard,406
+4,6,Conor Watters,Manservant,406
+4,6,Gian Sanghera-Warren,Goatherd's Son,406
+4,7,Kate Dickie,Lysa Arryn,407
+4,7,Barry McGovern,Dying Man,407
+4,7,Andy Beckwith,Rorge,407
+4,7,Gerard Jordan,Biter,407
+4,7,Marko Jelic,Prisoner,407
+4,8,Iwan Rheon,Ramsay Snow,408
+4,8,Pedro Pascal,Oberyn Martell,408
+4,8,Paola Dionisotti,Anya Waynwood,408
+4,8,Grahame Fox,Ralf Kenning,408
+4,8,Lois Winstone,Mole's Town Whore,408
+4,8,Jody Halse,Adrack Humble,408
+4,8,Alisdair Simpson,Donnel Waynwood,408
+4,8,Richard Doubleday,Vance Corbray,408
+4,8,Lu Corfield,Mole's Town Madam,408
+4,8,Tim Landers,Kegs,408
+4,8,Cormac McDonagh,Black Jack Bulwer,408
+4,8,Andy Moore,Mully,408
+4,8,Samuel Paul Small,Little Bird,408
+4,9,Yuri Kolokolnikov,Styr,409
+4,9,Joseph Gatt,Thenn Warg,409
+4,9,Neil Fingleton,Mag the Mighty,409
+4,10,Rose Leslie,Ygritte,410
+4,10,Sibel Kekilli,Shae,410
+4,10,Struan Rodger,Three-Eyed Raven,410
+4,10,Thomas Brodie-Sangster,Jojen Reed,410
+4,10,Mark Stanley,Grenn,410
+4,10,Josef Altin,Pypar,410
+4,10,Trevor Allan Davies,Fennesz,410
+4,10,Octavia Selena Alexandru,Leaf,410
+4,10,Darren Kent,Goatherd,410
+4,10,Ian Whyte,Dongo the Giant,410
+4,10,Alice Hewkin,Child of the Forest,410
+5,1,Charles Dance,Tywin Lannister,501
+5,1,Ciarán Hinds,Mance Rayder,501
+5,1,Jodhi May,Maggy,501
+5,1,Nell Williams,Young Cersei Lannister,501
+5,1,Isabella Steinbarth,Melara Hetherspoon,501
+5,1,Marcos James,White Rat,501
+5,1,Allan Gildea,Strong Sam Stone,501
+5,1,Stephen Brown,Sparring Boy,501
+5,1,Joe Hewetson,Maester Helliweg,501
+5,2,Reece Noi,Mossador,502
+5,2,Elizabeth Cadwallader,Lollys Stokeworth,502
+5,2,Cedric Henderson,Faceless Man,502
+5,2,Gary Oliver,Ternesio Terys,502
+5,2,J.J. Murphy,Denys Mallister,502
+5,2,Tom Fava,Street Tough #1,502
+5,2,Derek Lord,Mallister Supporter,502
+5,2,Paul Kennedy,Eyrie Guard,502
+5,2,Winston Davis,Street Tough #2,502
+5,2,Irene Kelleher,Inn Waitress,502
+5,2,Curtis-Lee Ashqar,Son of the Harpy,502
+5,2,Jonathan Gunning,Dwarf Hunter #1,502
+5,2,Alan McKee,Dwarf Hunter #2,502
+5,3,Dominic Carter,Janos Slynt,503
+5,3,Rila Fukushima,Street Red Priestess Volantis,503
+5,3,Paul Bentley,High Septon,503
+5,3,Mishaël Lopes Cardozo,Brothel Guard,503
+5,3,David Garlick,Despondent Man,503
+5,3,Matt McArdle,Sellsword #1,503
+5,3,Eddie Elks,Sellsword #2,503
+5,3,Gwyneth Keyworth,Clea,503
+5,3,Emina Minka Muftic,Beggar Woman,503
+5,3,Samantha Bentley,The Stranger,503
+5,3,Xena Avramidis,The Mother of Dragons,503
+5,3,Valis Volkova,The Warrior,503
+5,3,Em Scribbler,The Smith,503
+5,3,Rebecca Scott,The Mother,503
+5,3,Rosie Ruthless,The Maiden,503
+5,4,Gary Pillai,Merchant Captain,504
+5,4,Christian Vit,Lead Dornish Guard,504
+5,4,Simon Norbury,Faith Militant #1,504
+5,4,Jack Olohan,Faith Militant #2,504
+5,4,Slavko Sobin,Second Son,504
+5,4,Paddy Wallace,Lead Kingsguard,504
+5,4,Allon Sylvain,Foreign Merchant,504
+5,4,Will Fortune,Brothel Customer,504
+5,4,Rob Brockman,Whore #1,504
+5,4,Daniel Johnson,Whore #2,504
+5,4,Richard Fitzwell,Whore #3,504
+5,4,Ben Yates,Whore #4,504
+5,4,Samantha Bentley,Whore #5,504
+5,4,Xena Avramidis,Whore #6,504
+5,5,Ian McElhinney,Barristan Selmy,505
+5,5,Stella McCusker,Old Woman,505
+5,5,Gianpiero Cognoli,Great Master #1,505
+5,5,Raymond Keane,Winter Town Man,505
+5,5,Bobby Asghar,Great Master #2,505
+5,5,Peter Silverleaf,Great Master #3,505
+5,5,Davor Jozinovic,Great Master #4,505
+5,5,Ivan Peric,Great Master #5,505
+5,5,Hadi Kermani,Great Master #6,505
+5,5,Tonci Banov,Great Master #7,505
+5,6,Will Tudor,Olyvar,506
+5,6,Michael Yare,Slaver,506
+5,6,James McKenzie Robinson,Joss,506
+5,7,Peter Vaughan,Maester Aemon,507
+5,7,Adewale Akinnuoye-Agbaje,Malko,507
+5,7,Ian Lloyd Anderson,Derek,507
+5,7,Jonathan Byrne,Brant,507
+5,7,Nikola Bace,Tyrell Guard,507
+5,8,Birgitte Hjort Sørensen,Karsi,508
+5,8,Zachary Baharov,Loboda,508
+5,8,Richard Brake,The Night King,508
+5,8,Ross O'Hennessy,Lord of Bones,508
+5,8,Will O'Connell,Todder,508
+5,8,Morgan C. Jones,Braavosi Captain,508
+5,8,Tim Loane,Black Armored White Walker,508
+5,9,Joel Fry,Hizdahr zo Loraq,509
+5,9,Kerry Ingram,Shireen Baratheon,509
+5,9,Nicholas Boulton,Pit Announcer,509
+5,9,Oengus MacNamara,Thin Man,509
+5,9,Lacy Moore,Braavosi Madam,509
+5,9,Jack Hickey,Young Braavosi,509
+5,9,Sarine Sofair,Lhara,509
+5,9,Karla Lyons,Willa,509
+5,9,Ali Lyons,Johnna,509
+5,9,Danny O'Connor,Lannister Guard #1,509
+5,9,Garry Mountaine,Brusco,509
+5,9,Dylan McDonough,Sailor,509
+5,9,Jason McLaughlin,Young Baratheon Soldier,509
+5,9,Ollie Kram,Anara,509
+5,9,Gemita Samarra,Brea,509
+5,9,Irma Mali,Whore,509
+5,9,Aifric O'Donnell,Aya,509
+5,9,Fiach Kunz,Lannister Guard #2,509
+5,9,Michael Johnston,Lannister Guard #3,509
+5,10,Stephen Dillane,Stannis Baratheon,510
+5,10,Tara Fitzgerald,Selyse Baratheon,510
+5,10,Ian Beattie,Meryn Trant,510
+5,10,Nigel O'Neill,Baratheon General,510
+5,10,Maggie Hayes,Septa Moelle,510
+5,10,Mary Jordan,Septa Scolera,510
+5,10,Hattie Gotobed,Ghita,510
+5,10,Ella Tweed,Brothel Child #1,510
+5,10,Isabelle Jones,Brothel Child #2,510
+5,10,David Fennelly,Baratheon Soldier #1,510
+5,10,Jason McLaughlin,Baratheon Soldier #2,510
+5,10,Tristan McConnell,Gordy,510
+5,10,Laurence O'Fuarain,Simpson,510
+5,10,Ralph Clemente,Woodcutter,510
+5,10,Anthony John Crocker,King's Landing Drunkard,510
+5,10,Kirsty Nicholls,King's Landing Whore,510
+5,10,Munro Graham,King's Landing Flasher #1,510
+5,10,Ben Kelly,King's Landing Flasher #2,510
+5,10,Rebecca Van Cleave,Cersei Body Double,510
+6,1,Alexander Siddig,Doran Martell,601
+6,1,Deobia Oparei,Areo Hotah,601
+6,1,Toby Sebastian,Trystane Martell,601
+6,1,Charlotte Hope,Myranda,601
+6,1,Rubi Ali,Moro's Wife #1,601
+6,1,Andrew Bryan,Bolton Officer,601
+6,1,Tristan Heanue,Bolton Soldier,601
+6,1,Sabina Arthur,Meereenese Homeless Mother,601
+6,1,Colin Azzopardi,Maester Caleotte,601
+6,2,Michael McElhatton,Roose Bolton,602
+6,2,Patrick Malahide,Balon Greyjoy,602
+6,2,Elizabeth Webster,Walda Bolton,602
+6,2,Dylan Edwards,King's Landing Boaster,602
+6,2,Nell Tiger Free,Myrcella Baratheon,602
+6,2,Richard Laing,Lannister Captain,602
+6,2,Cordelia Hill,Young Lyanna Stark,602
+6,2,Michael Hayes,Night's Watchman #1,602
+6,2,Tony Flynn,Night's Watchman #2,602
+6,2,Steve Cash,Loyal Night's Watchman #1,602
+6,3,Owen Teale,Alliser Thorne,603
+6,3,Brenock O'Connor,Olly,603
+6,3,Meena Rayann,Vala,603
+6,3,Luke Roberts,Arthur Dayne,603
+6,3,Eddie Eyre,Gerold Hightower,603
+6,3,Brian Fortune,Othell Yarwyck,603
+6,3,Michael Condron,Bowen Marsh,603
+6,4,Natalia Tena,Osha,604
+6,4,Yousef 'Joe' Sweid,Ash,604
+6,4,Michael Heath,Kesh,604
+6,4,Joseph Naufahu,Khal Moro,604
+6,4,Tamer Hassan,Khal Forzho,604
+6,4,Souad Faress,Dosh khaleen High Priestess,604
+6,4,Hannah John-Kamen,Ornela,604
+6,4,Chuku Modu,Aggo,604
+6,4,Deon Lee-Williams,Iggo,604
+6,4,Elie Haddad,Khal Brozho,604
+6,4,Andrei Claude,Khal Rhalko,604
+6,4,Darius Dar Khan,Khal Qorro,604
+6,4,Fola Evans-Akingbola,Moro's Wife #2,604
+6,4,Wuese Houston-Jibo,Dothraki Widow #2,604
+6,4,Angelique Fernandez,Dothraki Widow #1,604
+6,4,Diogo Sales,Dothraki Bloodrider #1,604
+6,4,Junade Khan,Dothraki Bloodrider #2,604
+6,4,Michael Hooley,Night's Watchman,604
+6,4,Robert Fawsitt,Loyal Night's Watchman #2,604
+6,4,Valis Volkova,Dothraki Woman Having Sex,604
+6,4,Oliver Stockwell,Dothraki Man Having Sex,604
+6,5,Max von Sydow,Three-Eyed Raven,605
+6,5,Kristian Nairn,Hodor,605
+6,5,Michael Feast,Aeron Greyjoy,605
+6,5,Kae Alexander,Leaf,605
+6,5,Darrell D'Silva,Ironborn #1,605
+6,5,Ania Bukstein,Kinvara,605
+6,5,Gerald Lepkowski,Zanrush,605
+6,5,Annette Tierney,Young Nan,605
+6,5,Sam Coleman,Wyllis,605
+6,5,Wayne Foskett,Rickard Stark,605
+6,5,Sebastian Croft,Young Ned Stark,605
+6,5,Matteo Elezi,Young Benjen Stark,605
+6,5,Fergus Leathem,Young Rodrik Cassel,605
+6,5,Kate Anthony,Braavosi Woman #1,605
+6,5,Sally Mortemore,Braavosi Woman #2,605
+6,5,Michael Hooley,Night's Watchman #1,605
+6,5,Ruairí Heading,Night's Watchman #2,605
+6,5,Robert Render,Ironborn #2,605
+6,5,James Lecky,Ironborn #3,605
+6,6,Samantha Spiro,Melessa Tarly,606
+6,6,Kevin Eldon,Camello,606
+6,6,Eline Powell,Bianca,606
+6,6,Eva Butterly,Margaery Tyrell Mummer,606
+6,6,David Rintoul,Aerys Targaryen,606
+6,6,Freddie Stroma,Dickon Tarly,606
+6,6,Rebecca Benson,Talla Tarly,606
+6,6,Raül Tortosa,Tyrell Bannerman,606
+6,6,Glen Barry,Mummer #2,606
+6,6,Brendan O'Rourke,Mummer #3,606
+6,6,Ross Anderson-Doherty,Mummer #4,606
+6,7,Ian McShane,Brother Ray,607
+6,7,Murray McArthur,Dim Dalba,607
+6,7,Margaret Jackman,The Waif's Disguise,607
+6,7,Kevin Horsham,Westerosi Trader,607
+6,7,Louis Rolston,Bear Island Maester,607
+6,7,Katie Alexander Thom,Volantene Whore #1,607
+6,7,Jed Murray,Northman Rioter,607
+6,7,Michael Patrick,Wildling Rioter,607
+6,7,Matt Faris,Lannister Soldier,607
+6,7,Neil Keery,Ironborn at Brothel,607
+6,7,Heidi Romanova,Volantene Whore #2,607
+6,7,Danielle Claire Jenner,Volantene Whore #3,607
+6,7,Ella Hughes,Volantene Whore #4,607
+6,7,Zoi Gorman,Volantene Whore #5,607
+6,7,Billy King,Ironborn Abusing a Volantene Whore,607
+6,8,Tom Wlaschiha,Jaqen H'ghar,608
+6,8,Richard E. Grant,Izembaro,608
+6,8,Essie Davis,Lady Crane,608
+6,8,Faye Marsay,The Waif,608
+6,8,Clive Russell,Brynden 'Blackfish' Tully,608
+6,8,Jóhannes Haukur Jóhannesson,Lem Lemoncloak,608
+6,8,Melanie Liburd,Street Red Priestess Meereen,608
+6,8,Leigh Gill,Bobono,608
+6,8,Rob Callender,Clarenzo,608
+6,8,Sam Redford,Tully Bannerman,608
+6,8,Ricky Champ,Gatins,608
+6,8,Ian Davies,Morgan,608
+6,8,Ross McKinney,Riddell,608
+6,8,Steve Love,Steve,608
+6,8,Brahm Gallagher,Lannister Soldier,608
+6,8,Adam Turns,The Waif's Disguise,608
+6,8,Nanna Bryndís Hilmarsdóttir,Musician #1,608
+6,8,Ragnar Þórhallsson,Musician #2,608
+6,8,Arnar Rosenkranz Hilmarsson,Musician #3,608
+6,8,Brynjar Leifsson,Musician #4,608
+6,8,Kristján Kristjánsson,Musician #5,608
+6,9,Iwan Rheon,Ramsay Bolton,609
+6,9,Ian Whyte,Wun Wun,609
+6,9,Enzo Cilenti,Yezzan zo Qaggaz,609
+6,9,Paul Rattray,Harald Karstark,609
+6,9,Dean Jagger,Smalljon Umber,609
+6,9,Art Parkinson,Rickon Stark,609
+6,9,George Georgiou,Razdal mo Eraz,609
+6,9,Eddie Jackson,Belicho Paenymion,609
+6,9,Rory Mullen,Captain of the Bolton Archers,609
+6,9,Mark Tankersley,Bolton General,609
+6,9,David Birkbeck,Northman Rider,609
+6,9,Paul Garrett,Northman Archer,609
+6,10,Natalie Dormer,Margaery Tyrell,610
+6,10,Jonathan Pryce,High Sparrow,610
+6,10,Dean-Charles Chapman,Tommen Baratheon,610
+6,10,Michiel Huisman,Daario Naharis,610
+6,10,Julian Glover,Grand Maester Pycelle,610
+6,10,Finn Jones,Loras Tyrell,610
+6,10,Ian Gelder,Kevan Lannister,610
+6,10,Roger Ashton-Griffiths,Mace Tyrell,610
+6,10,Eugene Simon,Lancel Lannister,610
+6,10,Hannah Waddingham,Septa Unella,610
+6,10,Daniel Tuite,Lothar Frey,610
+6,10,Tim Plester,Black Walder Rivers,610
+6,10,Frank Hvam,Citadel Maester,610
+6,10,Sabrina Bartlett,Handmaid,610
+6,10,Dermot Ward,Tommen's Attendant,610
+6,10,Aron Hegarty,Tommen's Manservant,610
+6,10,Sean Blowers,Wyman Manderly,610
+6,10,Tom Varey,Cley Cerwyn,610
+6,10,Nathanael Saleh,Arthur,610
+6,10,Annette Hannah,Frances,610
+6,10,Jesse Magee,Little Bird #4,610
+6,10,Lucy Gallagher,Little Bird #6,610
+6,10,Fionn Kernan,Little Bird #7,610
+6,10,Michael Nevin,Little Bird #3,610
+6,10,Iona Clarke,Little Bird #5,610
+6,10,Frédéric André,Knight,610
+7,1,David Bradley,Walder Frey,701
+7,1,Lucy Hayes,Lady Kitty Frey,701
+7,1,Ed Sheeran,Lannister Soldier,701
+7,1,Thomas Turgoose,Lannister Soldier,701
+7,1,Billy Postlethwaite,Lannister Soldier,701
+7,1,Paul Ward,Poisoned Frey,701
+7,1,Brendan Morrissey,Frey Lord,701
+7,1,Eamonn Draper,Sick Maester,701
+7,1,Kate Dempsey,Serving Girl,701
+7,2,Keisha Castle-Hughes,Obara Sand,702
+7,2,Jessica Henwick,Nymeria Sand,702
+7,2,Ben Hawkey,Hot Pie,702
+7,2,Ben Fox,Crossroads Inn Patron,702
+7,2,Mark Roper,Crossroads Inn Patron,702
+7,3,Indira Varma,Ellaria Sand,703
+7,3,Diana Rigg,Olenna Tyrell,703
+7,3,Rosabell Laurenti Sellers,Tyene Sand,703
+7,3,Sara Dylan,Bernadette,703
+7,3,Luke Wilson Hanley,Stark Soldier,703
+7,4,Ellie Kendrick,Meera Reed,704
+7,4,Mark Gatiss,Tycho Nestoris,704
+7,4,Danny Kirrane,Stark Soldier,704
+7,4,Joseph Quinn,Koner,704
+7,4,Briege Roche,Winterfell Local,704
+7,4,Eamonn Keenan,Stark Soldier,704
+7,5,Jim Broadbent,Archmaester Ebrose,705
+7,5,James Faulkner,Randyll Tarly,705
+7,5,Tom Hopper,Dickon Tarly,705
+7,5,Tim McInnerny,Robett Glover,705
+7,5,Kevin Eldon,Goldcloak,705
+7,5,Julian Firth,Citadel Maester,705
+7,5,Philip O'Sullivan,Citadel Maester,705
+7,5,Laurence Spellman,Goldcloak,705
+7,5,Adele Smyth-Kennedy,'Littlefinger' Winterfell Spy,705
+7,6,Paul Kaye,Thoros of Myr,706
+7,6,Joseph Mawle,Benjen Stark,706
+7,7,Aidan Gillen,Petyr 'Littlefinger' Baelish,707
+7,7,Aisling Franciosi,Lyanna Stark,707
+7,7,Brendan Cowell,Harrag,707
+7,7,Robert Aramayo,Young Ned,707
+7,7,Wilf Scolding,Rhaegar Targaryen,707
+7,7,Tom Chadbon,High Septon Maynard,707
+7,7,Guy Oliver-Watts,Lannister General,707
+7,7,Neil Fingleton,Giant Wight #2,707
+7,7,Adam Slynn,Lannister Guard,707
+7,7,William Nevan Wilson,Baby Sam,707
+7,7,James Robert Wilson,Baby Sam,707
+8,1,Harry Grasby,Ned Umber,801
+8,1,Lucy Aarden,Crayah,801
+8,1,Marina Lawrence-Mahrra,Dirah,801
+8,1,Josephine Gillan,Marei,801
+8,1,Felix Jamieson,Winter Town Boy,801
+8,1,Syd Ralph,Winter Town Woman,801
+8,1,Katie Tumelty,Winter Town Woman,801
+8,2,Conor Maguire,Fergus' Friend,802
+8,2,Thomas Finnegan,Baby Sam,802
+8,3,Carice van Houten,Melisandre,803
+8,3,Vladimir 'Furdo' Furdik,The Night King,803
+8,3,Ian Whyte,Giant Wight #1,803
+8,3,Megan Parkinson,Alys Karstark,803
+8,3,Javier Botet,Wight at Table,803
+8,3,Seamus O'Hara,Fergus,803
+8,3,Bea Glancy,Teela,803
+8,3,Lucy McConnell,Woman with Elderly Parents,803
+8,3,Eileen McCloskey,Village Woman,803
+8,3,Robert James,Northman,803
+8,3,Roma Tomelty,Northwoman,803
+8,3,Claire Connor,Baby Sam,803
+8,3,Logan Watson,Baby Sam,803
+8,4,Nathalie Emmanuel,Missandei,804
+8,4,Alfie Allen,Theon Greyjoy,804
+8,4,Hannah Murray,Gilly,804
+8,4,Iain Glen,Jorah Mormont,804
+8,4,Richard Dormer,Beric Dondarrion,804
+8,4,Ben Crompton,Eddison Tollett,804
+8,4,Bella Ramsey,Lyanna Mormont,804
+8,4,Staz Nair,Qhono,804
+8,4,Alice Nokes,Willa,804
+8,4,Danielle Galligan,Sarra,804
+8,4,Emer McDaid,Winterfell Girl,804
+8,5,Conleth Hill,Lord Varys,805
+8,5,Rory McCann,Sandor 'The Hound' Clegane,805
+8,5,Pilou Asbæk,Euron Greyjoy,805
+8,5,Anton Lesser,Qyburn,805
+8,5,Hafþór Júlíus Björnsson,Gregor 'The Mountain' Clegane,805
+8,5,Laura Elphinstone,Nora,805
+8,5,Marc Rissmann,Harry Strickland,805
+8,5,Alexis Raben,Xela,805
+8,5,Matthew Wolf,Lannister Soldier,805
+8,5,Bronte Carmichael,Martha,805
+8,5,Tipper Seifert-Cleveland,Nora's Daughter,805
+8,5,Frank Blake,Northern Sentry,805
+8,5,Ryan McKen,Lannister Soldier,805
+8,5,Owen Whitelaw,Lannister Soldier,805
+8,5,Rori Hawthorn,Young Woman,805
+8,5,Oliver Devoti,Northerner in Alley,805
+8,5,Jim Tighe,Lannister Soldier,805
+8,5,Derek Dubery,Lannister Soldier,805
+8,5,Luke McQuillan,Lannister Soldier,805
+8,5,Nicky Harley,King's Landing Citizen,805
+8,5,Hayley McQuillan,King's Landing Citizen,805
+8,5,Adam Devereux,Lannister Soldier,805
+8,5,Thomas Martin,Lannister Soldier,805
+8,5,Brian Patrick Kennedy,Lannister Soldier,805
+8,5,Luna Kalo,King's Landing Citizen,805
+8,5,Caitlin Pharro,King's Landing Citizen,805
+8,5,Louis McCartney,King's Landing Citizen,805
+8,5,Rosie McClelland,King's Landing Citizen,805
+8,5,Isaac Heslip,King's Landing Citizen,805
+8,5,Jack Morgan,Lannister Soldier,805
+8,6,Peter Dinklage,Tyrion Lannister,806
+8,6,Nikolaj Coster-Waldau,Jaime Lannister,806
+8,6,Lena Headey,Cersei Lannister,806
+8,6,Emilia Clarke,Daenerys Targaryen,806
+8,6,Kit Harington,Jon Snow,806
+8,6,Sophie Turner,Sansa Stark,806
+8,6,Maisie Williams,Arya Stark,806
+8,6,Liam Cunningham,Davos Seaworth,806
+8,6,John Bradley,Samwell Tarly,806
+8,6,Isaac Hempstead Wright,Bran Stark,806
+8,6,Gwendoline Christie,Brienne of Tarth,806
+8,6,Jerome Flynn,Bronn,806
+8,6,Kristofer Hivju,Tormund Giantsbane,806
+8,6,Joe Dempsie,Gendry,806
+8,6,Jacob Anderson,Grey Worm,806
+8,6,Gemma Whelan,Yara Greyjoy,806
+8,6,Tobias Menzies,Edmure Tully,806
+8,6,Daniel Portman,Podrick Payne,806
+8,6,Rupert Vansittart,Yohn Royce,806
+8,6,Lino Facioli,Robin Arryn,806
+8,6,Richard Rycroft,Maester Wolkan,806
+8,6,Gabriel Akuwudike,Unsullied Captain,806
+8,6,Noel Harron,Ironborn Lord,806
+8,6,Toby Osmond,Dornish Prince,806
+8,6,Andrew Bicknell,Riverlands Lord,806
+8,6,Michael Benbaruk,Lord Une,806
+8,6,Frank Jakeman,Vale Lord,806
+8,6,Niall Bishop,Northern Lord,806
+8,6,Pádraig O'Grady,Crying Man,806
+8,6,Eoin Duffy,Lannister,806
+8,6,Shane Whisker,Villager 1,806
